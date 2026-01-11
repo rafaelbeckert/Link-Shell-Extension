@@ -1595,9 +1595,8 @@ To help distinguish Symbolic Links from normal files/directories, an
 <strong>overlay icon</strong> is implemented on symbolic links that
 shows a light green arrow icon under the folder.<br />
 <br />
-<span class="image placeholder"
-data-original-image-src="symboliclinkicon_10.png"
-data-original-image-title="">Overlay Icon for Hardlinks</span><br />
+<img src="./images/1064a43c898c1e4c7bf7110008589c167edb16ef.png"
+alt="Overlay Icon for Hardlinks" /><br />
 <br />
 Overlay icons for Symbolic Links can also be <a
 href="#customoverlayicons">customized.</a>
@@ -1609,8 +1608,7 @@ href="#customoverlayicons">customized.</a>
 of Hardlinks</strong></span></td>
 <td class="bodytext"><p>Simply select a hardlinked file and select <a
 href="#linkproperties">Properties</a> from the action menu:</p>
-<p><img
-src="C:\Users\Administrator\Desktop\TEMP\docs\lse\media/8e5b3ef5915380db0f46873575c38eb35cfaf93b.png"
+<p><img src="./images/8e5b3ef5915380db0f46873575c38eb35cfaf93b.png"
 alt="Enumerate Hardlinks" /></p>
 <br />
 &#10;<p>The Hardlink Enumeration functionality is also available via command
@@ -1633,8 +1631,7 @@ below shown dialog box. So if you see the below box, and the program
 asking for elevation is LSEUacHelper.exe, it is Link Shell Extensions
 contribution to UAC and you must acknowledge it to get Symbolic Links
 created.</p>
-<p><img
-src="C:\Users\Administrator\Desktop\TEMP\docs\lse\media/acec48d56945e5fbb4e378bc9b661ec9172014a3.png"
+<p><img src="./images/acec48d56945e5fbb4e378bc9b661ec9172014a3.png"
 alt="vistauac" /></p>
 <br />
 <br />
@@ -1691,8 +1688,7 @@ Links. e.g.<br />
 <br />
 A Hardlink has been created, which can be easily verified<br />
 <br />
-<img
-src="C:\Users\Administrator\Desktop\TEMP\docs\lse\media/b5e4f4a23246994d2ffb5e1231587e6b32022d01.png"
+<img src="./images/b5e4f4a23246994d2ffb5e1231587e6b32022d01.png"
 alt="remotecapabilities" />
 <br />
 Furthermore SMB1.0 also reports the reference count for Hardlinks and
@@ -1847,9 +1843,8 @@ Shell Extension has a companion called LSEConfig, which changes Link
 Shell Extension behaviour via a User Interface. Once started, LSEConfig
 will throw the <a href="#VistaAndUAC">famous UAC</a> UAC dialog, because
 Link Shell Extensions settings are changed in the Windows registry.
-<p><span class="image placeholder"
-data-original-image-src="lseconfiggeneral.png"
-data-original-image-title="">lseconfiggeneral</span></p>
+<p><img src="./images/b7cce090a9033d5b556c423680e97d432c231f76.png"
+alt="lseconfiggeneral" /></p>
 <br />
 <span id="localisation"><strong>Localisation</strong><br />
 </span> Link Shell Extension's UI and commands are available in a few
@@ -3058,8 +3053,7 @@ Donations</strong></span></td>
 href="mailto:Hermann.Schinagl@gmx.net">Hermann Schinagl.</a>.<br />
 LSE is and will be freeware, but if LSE was really helpful for you and
 saved lots of your time please think of donations either via PayPal
-<img
-src="C:\Users\Administrator\Desktop\TEMP\docs\lse\media/51a5c1a9d7328dd1651e0b9c98771c16f8c9d833.gif" />
+<img src="./images/56d45f8a17f5078a20af9962c992ca4678450765.gif" />
 <br />
 <br />
 or by flattring me<br />
